@@ -1,13 +1,8 @@
-# prework-study-guide
+# My Bootcamp Prework Study Guide
 
 ## Description
 
 This is a prework study guide for the full-stack bootcamp I'm about to begin.  I created this study guide per instructions, but also so I could begin to learn some of the skills I'll be developing during the bootcamp.  Throughout its creation, I learned HTML, CSS, and JavaScript basics, as well as how to operate a console, Visual Studio, and the basics of navigating GitHub.
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
